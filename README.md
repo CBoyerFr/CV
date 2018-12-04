@@ -56,13 +56,13 @@
           <h1 class="mb-0">Boyer
             <span class="text-primary">Clément</span>
           </h1>
-          <div class="subheading mb-5">
-            7 Avenue des hirondelles 
-            95260 Beaumont sur oise
-            0669392069
+          <div class=" mb-5">
+            <p>7 Avenue des hirondelles </p> <br>
+            <p>95260 Beaumont sur oise </p> <br>
+            <p> 0669392069 </p> <br>
             <a href="mailto:name@email.com">boyer.clement95@gmail.com</a>
           </div>
-          <p class="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+          <p class=" mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
           <div class="social-icons">
             <a href="#">
               <i class="fab fa-linkedin-in"></i>
