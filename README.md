@@ -12,7 +12,7 @@
   <!-- Custom fonts for this template -->
     <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
   </head>
 
@@ -53,18 +53,23 @@
 
    <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
         <div class="my-auto">
-          <h1 class="mb-0">Boyer
-            <span class="text-primary">Clément</span>
+          <h1 class="mb-0">Boyer Clément
           </h1>
-          <div class=" mb-5">
-            <p>7 Avenue des hirondelles </p> 
-            <p>95260 Beaumont sur oise </p> 
-            <p> 0669392069 </p> 
+          <div class="subheading mb-5">
+              7 Avenue des hirondelles
+              95260 Beaumont sur oise
+              0669392069
             <a href="mailto:name@email.com">boyer.clement95@gmail.com</a>
           </div>
-          <p class=" mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+          <p class=" mb-5">
+            Passionné par les technologies informatiques. Après 7 ans au sein d'un service client , j'ai décidé de changer de vie professionnelle. </br>
+Pourquoi le développement logiciel, mon entourage personnel et professionnel sont du même avis.
+Je suis logique comme un ordinateur.</br>
+De part ma nature, je suis quelqu’un de persévérant et curieux. J’ai toujours exploré mon environnement pour le comprendre au mieux et essayer de l’améliorer. <br>
+ 
+Je suis actuellement à la recherche d'un stage de Mai 2019 à Août 2019 et plus si affinités.</p>
           <div class="social-icons">
-            <a href="#">
+            <a href="https://www.linkedin.com/in/cboyerfr/">
               <i class="fab fa-linkedin-in"></i>
             </a>
             <a href="#">
@@ -72,9 +77,6 @@
             </a>
             <a href="#">
               <i class="fab fa-twitter"></i>
-            </a>
-            <a href="#">
-              <i class="fab fa-facebook-f"></i>
             </a>
           </div>
         </div>
