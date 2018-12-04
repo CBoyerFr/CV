@@ -12,7 +12,7 @@
   <!-- Custom fonts for this template -->
     <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
-
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 
   </head>
 
@@ -56,7 +56,10 @@
           <h1 class="mb-0">Boyer
             <span class="text-primary">Clément</span>
           </h1>
-          <div class="subheading mb-5">7 Avenue des hirondelles 95260 Beaumont sur oise· 0669392069·
+          <div class="subheading mb-5">
+            7 Avenue des hirondelles 
+            95260 Beaumont sur oise
+            0669392069
             <a href="mailto:name@email.com">boyer.clement95@gmail.com</a>
           </div>
           <p class="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
