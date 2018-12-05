@@ -57,13 +57,12 @@
   </nav>
 
   <div class="container-fluid p-0">
-
-    <!-- Présentation -->
+     <!-- Présentation -->
     <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
       <div class="my-auto container-fluid">
         <div class="row">
           <div class="col-10">
-            <h1 class="mb-4 mt-5 "> Boyer Clément</h1>
+            <h1 class="mb-4 mt-5 "> Boyer Clément Full Stack Developer Junior</h1>
             <div class="blockquote">
               <p class="mb-0">7 Avenue des hirondelles <br>
                 95260 Beaumont sur oise <br>
@@ -72,18 +71,15 @@
             </div>
           </div>
           <span class="d-none d-lg-block col-2 mt-5">
-            <img class="img-fluid img-profile rounded-circle m-4 " src="C:\Users\80010-37-22\Dropbox\CDI formation/profil.jpg"
-              alt="">
+            <img class="img-fluid img-profile rounded-circle m-4 " src="https://user-images.githubusercontent.com/33145738/49534857-f0accb00-f8c2-11e8-8f6b-938b06c0e794.jpg" alt="img-profile">
           </span>
         </div>
         <p class=" mt-2 mb-5">
           Passionné par les technologies informatiques. Après 7 ans au sein d'un service client , j'ai décidé de
           changer de vie professionnelle.
-          </br>
           Pourquoi le développement logiciel, de part ma nature, je suis quelqu’un de persévérant et curieux.
-          <br>
           J’ai toujours exploré mon environnement pour le comprendre au mieux et essayer de l’améliorer.
-          <br>
+          
           Je suis actuellement à la recherche d'un stage de Mai 2019 à Août 2019 et plus si affinités.</p>
         <div class="social-icons">
           <a href="https://www.linkedin.com/in/cboyerfr/">
