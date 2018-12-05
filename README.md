@@ -78,8 +78,7 @@
           Passionné par les technologies informatiques. Après 7 ans au sein d'un service client , j'ai décidé de
           changer de vie professionnelle.
           Pourquoi le développement logiciel, de part ma nature, je suis quelqu’un de persévérant et curieux.
-          J’ai toujours exploré mon environnement pour le comprendre au mieux et essayer de l’améliorer.
-          
+          J’ai toujours exploré mon environnement pour le comprendre au mieux et essayer de l’améliorer.</br>
           Je suis actuellement à la recherche d'un stage de Mai 2019 à Août 2019 et plus si affinités.</p>
         <div class="social-icons">
           <a href="https://www.linkedin.com/in/cboyerfr/">
@@ -94,13 +93,10 @@
         </div>
       </div>
     </section>
-
     <hr class="m-0">
-
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
       <div class="my-auto">
         <h2 class="mb-5">Experience</h2>
-
         <div class="resume-item d-flex flex-column flex-md-row mb-5">
           <div class="resume-content mr-auto">
             <h3 class="mb-0">Chargé Clientèle</h3>
@@ -122,7 +118,6 @@
             <span class="text-primary"> Aout 2010 - Á ce jour</span>
           </div>
         </div>
-
         <div class="resume-item d-flex flex-column flex-md-row mb-5">
           <div class="resume-content mr-auto">
             <h3 class="mb-0">Web Developpeur/ WebMaster</h3>
@@ -143,13 +138,10 @@
         </div>
       </div>
     </section>
-
     <hr class="m-0">
-
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="formation">
       <div class="my-auto">
         <h2 class="mb-5">Formation</h2>
-
         <div class="resume-item d-flex flex-column flex-md-row mb-5">
           <div class="resume-content mr-auto">
             <h3 class="mb-0">Afpa Amiens</h3>
@@ -190,7 +182,6 @@
             <span class="text-primary">Septembre 2018 - Á ce jour</span>
           </div>
         </div>
-
         <div class="resume-item d-flex flex-column flex-md-row mb-5">
           <div class="resume-content mr-auto">
             <h3 class=" mb-0">Afpa Amiens</h3>
@@ -219,7 +210,6 @@
             <span class="text-primary">Octobre 2017- Juin 2018</span>
           </div>
         </div>
-
         <div class="resume-item d-flex flex-column flex-md-row">
           <div class="resume-content mr-auto">
             <h3 class="mb-0">Lycée Galilée Cergy</h3>
@@ -232,13 +222,10 @@
         </div>
       </div>
     </section>
-
     <hr class="m-0">
-
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="competence">
       <div class="my-auto">
         <h2 class="mb-5">Compétences</h2>
-
         <div class="subheading mb-3">Langage Programmation &amp; Outils</div>
         <div class="text-dark display-4 text-center mt-4 mb-4 "> Web </div>
         <ul class="list-inline dev-icons text-center">
@@ -273,7 +260,6 @@
             <i class="fas fa-database fa-6x"></i>
           </li>
         </ul>
-
         <div class="subheading mb-3">Workflow</div>
         <ul class="fa-ul mb-0">
           <li>
@@ -291,9 +277,7 @@
         </ul>
       </div>
     </section>
-
     <hr class="m-0">
-
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interets">
       <div class="my-auto">
         <h2 class="mb-5">Intérêts</h2>
@@ -321,12 +305,10 @@
         </ul>
       </div>
     </section>
-
     <hr class="m-0">
-
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="certification">
       <div class="my-auto">
-        <h2 class="mb-5">Certification</h2>
+        <h2 class="mb-5">Certification &amp; Projets </h2>
         <ul class="fa-ul mb-0">
           <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
@@ -351,6 +333,10 @@
             <i class="fa-li fa fa-trophy text-warning"></i>
             <a target="_blank" href="https://www.isograd.com/FR/verificationcertification.php?key_str_id=2017-1681408585-5&sco=716">TOSA
               Excel 2010 716/1000</a>
+          </li>
+           <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+            <a target="_blank" href="https://gen0s-dev.github.io/Resume/">CV en ligne</a>
           </li>
         </ul>
       </div>
