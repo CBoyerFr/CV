@@ -14,7 +14,11 @@
   <!-- FontAwesome -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
     crossorigin="anonymous">
-    <style rel="stylesheet" type="text/css">.markdown-body>*:first-child{display: none;}</style>
+  <style type="text/css">
+    .markdown-body>*:first-child {
+      display: none;
+    }
+  </style>
 </head>
 
 <body>
@@ -46,20 +50,20 @@
           <a class="nav-link js-scroll-trigger" href="#interets">Intérêts</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#certification">Certification</a>
-          </li>
+          <a class="nav-link js-scroll-trigger" href="#certification">Certification</a>
+        </li>
       </ul>
     </div>
   </nav>
 
   <div class="container-fluid p-0">
-  <!-- Présentation -->
+
+    <!-- Présentation -->
     <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
       <div class="my-auto container-fluid">
         <div class="row">
           <div class="col-10">
-            <h1 class="mb-4 mt-5 "> Boyer Clément
-            </h1>
+            <h1 class="mb-4 mt-5 "> Boyer Clément</h1>
             <div class="blockquote">
               <p class="mb-0">7 Avenue des hirondelles <br>
                 95260 Beaumont sur oise <br>
@@ -74,9 +78,12 @@
         </div>
         <p class=" mt-2 mb-5">
           Passionné par les technologies informatiques. Après 7 ans au sein d'un service client , j'ai décidé de
-          changer de vie professionnelle. </br>
-          Pourquoi le développement logiciel, de part ma nature, je suis quelqu’un de persévérant et curieux. <br>
+          changer de vie professionnelle.
+          </br>
+          Pourquoi le développement logiciel, de part ma nature, je suis quelqu’un de persévérant et curieux.
+          <br>
           J’ai toujours exploré mon environnement pour le comprendre au mieux et essayer de l’améliorer.
+          <br>
           Je suis actuellement à la recherche d'un stage de Mai 2019 à Août 2019 et plus si affinités.</p>
         <div class="social-icons">
           <a href="https://www.linkedin.com/in/cboyerfr/">
@@ -91,10 +98,13 @@
         </div>
       </div>
     </section>
+
     <hr class="m-0">
+
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
       <div class="my-auto">
         <h2 class="mb-5">Experience</h2>
+
         <div class="resume-item d-flex flex-column flex-md-row mb-5">
           <div class="resume-content mr-auto">
             <h3 class="mb-0">Chargé Clientèle</h3>
@@ -116,6 +126,7 @@
             <span class="text-primary"> Aout 2010 - Á ce jour</span>
           </div>
         </div>
+
         <div class="resume-item d-flex flex-column flex-md-row mb-5">
           <div class="resume-content mr-auto">
             <h3 class="mb-0">Web Developpeur/ WebMaster</h3>
@@ -136,10 +147,13 @@
         </div>
       </div>
     </section>
+
     <hr class="m-0">
+
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="formation">
       <div class="my-auto">
         <h2 class="mb-5">Formation</h2>
+
         <div class="resume-item d-flex flex-column flex-md-row mb-5">
           <div class="resume-content mr-auto">
             <h3 class="mb-0">Afpa Amiens</h3>
@@ -149,7 +163,7 @@
             <div class="mt-2">
               <ul>
                 <h6>Concevoir et développer des composants d’interface utilisateur en intégrant les recommandations de
-                  sécurité :</h2>
+                  sécurité :</h6>
                   <li>Maquetter une application.</li>
                   <li>Développer une interface utilisateur de type desktop.</li>
                   <li>Développer des composants d’accès aux données.</li>
@@ -157,14 +171,14 @@
                   <li>Développer la partie back-end d’une interface utilisateur web.</li>
               </ul>
               <ul>
-                <h6>Concevoir et développer la persistance des données enintégrant les recommandations de sécurité :</h2>
+                <h6>Concevoir et développer la persistance des données enintégrant les recommandations de sécurité :</h6>
                   <li>Concevoir une base de données.</li>
                   <li>Mettre en place une base de données.</li>
                   <li>Développer des composants dans le langage d’une base de données.</li>
               </ul>
               <ul>
                 <h6>Concevoir et développer une application multicouche répartie en intégrant les recommandations de
-                  sécurité :</h2>
+                  sécurité :</h6>
                   <li>Collaborer à la gestion d’un projet informatique et à l’organisation de l’environnement de
                     développement.</li>
                   <li>Concevoir une application.</li>
@@ -180,6 +194,7 @@
             <span class="text-primary">Septembre 2018 - Á ce jour</span>
           </div>
         </div>
+
         <div class="resume-item d-flex flex-column flex-md-row mb-5">
           <div class="resume-content mr-auto">
             <h3 class=" mb-0">Afpa Amiens</h3>
@@ -188,7 +203,7 @@
             <span>Validé</span>
             <div class="mt-2">
               <ul>
-                <h6>Développer une application Client-Serveur :</h2>
+                <h6>Développer une application Client-Serveur :</h6>
                   <li>Maquetter une application.</li>
                   <li>Concevoir une base de données.</li>
                   <li>Mettre en place une base de données.</li>
@@ -196,7 +211,7 @@
                   <li>Développer des composants d’accès aux données.</li>
               </ul>
               <ul>
-                <h6>Développer une application Web :</h2>
+                <h6>Développer une application Web :</h6>
                   <li>Développer des pages web en lien avec une base de données.</li>
                   <li>Mettre en œuvre une solution de gestion de contenu ou ecommerce.</li>
                   <li>Développer une application simple de mobilité numérique.</li>
@@ -208,6 +223,7 @@
             <span class="text-primary">Octobre 2017- Juin 2018</span>
           </div>
         </div>
+
         <div class="resume-item d-flex flex-column flex-md-row">
           <div class="resume-content mr-auto">
             <h3 class="mb-0">Lycée Galilée Cergy</h3>
@@ -220,10 +236,13 @@
         </div>
       </div>
     </section>
+
     <hr class="m-0">
+
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="competence">
       <div class="my-auto">
         <h2 class="mb-5">Compétences</h2>
+
         <div class="subheading mb-3">Langage Programmation &amp; Outils</div>
         <div class="text-dark display-4 text-center mt-4 mb-4 "> Web </div>
         <ul class="list-inline dev-icons text-center">
@@ -258,6 +277,7 @@
             <i class="fas fa-database fa-6x"></i>
           </li>
         </ul>
+
         <div class="subheading mb-3">Workflow</div>
         <ul class="fa-ul mb-0">
           <li>
@@ -275,7 +295,9 @@
         </ul>
       </div>
     </section>
+
     <hr class="m-0">
+
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interets">
       <div class="my-auto">
         <h2 class="mb-5">Intérêts</h2>
@@ -291,34 +313,39 @@
           </li>
         </ul>
         <ul class="list-inline dev-icons text-center mt-3">
-            <li class="list-inline-item">
-              <span>Manga</span>
-            </li>
-            <li class="list-inline-item">
-              <span>Film/Cinéma</span>
-            </li>
-            <li class="list-inline-item">
-              <span>Bricolage</span>
-            </li>
-          </ul>
+          <li class="list-inline-item">
+            <span>Manga</span>
+          </li>
+          <li class="list-inline-item">
+            <span>Film/Cinéma</span>
+          </li>
+          <li class="list-inline-item">
+            <span>Bricolage</span>
+          </li>
+        </ul>
       </div>
     </section>
+
     <hr class="m-0">
+
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="certification">
       <div class="my-auto">
         <h2 class="mb-5">Certification</h2>
         <ul class="fa-ul mb-0">
           <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
-            <a target="_blank" href="https://openclassrooms.com/fr/course-certificates/6174202108">Démarrez votre projet avec Java</a>
+            <a target="_blank" href="https://openclassrooms.com/fr/course-certificates/6174202108">Démarrez votre
+              projet avec Java</a>
           </li>
           <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
-            <a target="_blank" href="https://openclassrooms.com/fr/course-certificates/2375192353">Apprenez à développer en C#.</a>
+            <a target="_blank" href="https://openclassrooms.com/fr/course-certificates/2375192353">Apprenez à
+              développer en C#.</a>
           </li>
           <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
-            <a target="_blank" href="https://openclassrooms.com/fr/course-certificates/8057994997">Découvrez le fonctionnement des algorithmes.</a>
+            <a target="_blank" href="https://openclassrooms.com/fr/course-certificates/8057994997">Découvrez le
+              fonctionnement des algorithmes.</a>
           </li>
           <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
@@ -326,7 +353,8 @@
           </li>
           <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
-            <a target="_blank" href="https://www.isograd.com/FR/verificationcertification.php?key_str_id=2017-1681408585-5&sco=716">TOSA Excel 2010 716/1000</a>
+            <a target="_blank" href="https://www.isograd.com/FR/verificationcertification.php?key_str_id=2017-1681408585-5&sco=716">TOSA
+              Excel 2010 716/1000</a>
           </li>
         </ul>
       </div>
@@ -341,6 +369,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
     crossorigin="anonymous"></script>
 
-  </body>
+
+</body>
 
 </html>
