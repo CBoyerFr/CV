@@ -78,7 +78,7 @@
           Passionné par les technologies informatiques. Après 7 ans au sein d'un service client , j'ai décidé de
           changer de vie professionnelle.
           Pourquoi le développement logiciel, de part ma nature, je suis quelqu’un de persévérant et curieux.
-          J’ai toujours exploré mon environnement pour le comprendre au mieux et essayer de l’améliorer.</br>
+          J’ai toujours exploré mon environnement pour le comprendre au mieux et essayer de l’améliorer.
           Je suis actuellement à la recherche d'un stage de Mai 2019 à Août 2019 et plus si affinités.</p>
         <div class="social-icons">
           <a href="https://www.linkedin.com/in/cboyerfr/">
