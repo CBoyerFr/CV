@@ -4,8 +4,8 @@
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="">
-  <meta name="author" content="">
+  <meta name="description" content="Resume of Boyer Clément Developers">
+  <meta name="author" content="Boyer Clément">
 
 
   <!-- Bootstrap core CSS -->
@@ -14,6 +14,12 @@
   <!-- FontAwesome -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
     crossorigin="anonymous">
+    <style type="text/css">
+    .markdown-body>*:first-child
+    {
+      display: none;
+    }
+    </style>
 
 </head>
 
@@ -53,8 +59,7 @@
   </nav>
 
   <div class="container-fluid p-0">
-
-    <!-- Présentation -->
+  <!-- Présentation -->
     <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
       <div class="my-auto container-fluid">
         <div class="row">
@@ -78,7 +83,6 @@
           changer de vie professionnelle. </br>
           Pourquoi le développement logiciel, de part ma nature, je suis quelqu’un de persévérant et curieux. <br>
           J’ai toujours exploré mon environnement pour le comprendre au mieux et essayer de l’améliorer.
-
           Je suis actuellement à la recherche d'un stage de Mai 2019 à Août 2019 et plus si affinités.</p>
         <div class="social-icons">
           <a href="https://www.linkedin.com/in/cboyerfr/">
@@ -93,13 +97,10 @@
         </div>
       </div>
     </section>
-
     <hr class="m-0">
-
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
       <div class="my-auto">
         <h2 class="mb-5">Experience</h2>
-
         <div class="resume-item d-flex flex-column flex-md-row mb-5">
           <div class="resume-content mr-auto">
             <h3 class="mb-0">Chargé Clientèle</h3>
@@ -121,7 +122,6 @@
             <span class="text-primary"> Aout 2010 - Á ce jour</span>
           </div>
         </div>
-
         <div class="resume-item d-flex flex-column flex-md-row mb-5">
           <div class="resume-content mr-auto">
             <h3 class="mb-0">Web Developpeur/ WebMaster</h3>
@@ -142,13 +142,10 @@
         </div>
       </div>
     </section>
-
     <hr class="m-0">
-
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="formation">
       <div class="my-auto">
         <h2 class="mb-5">Formation</h2>
-
         <div class="resume-item d-flex flex-column flex-md-row mb-5">
           <div class="resume-content mr-auto">
             <h3 class="mb-0">Afpa Amiens</h3>
@@ -189,7 +186,6 @@
             <span class="text-primary">Septembre 2018 - Á ce jour</span>
           </div>
         </div>
-
         <div class="resume-item d-flex flex-column flex-md-row mb-5">
           <div class="resume-content mr-auto">
             <h3 class=" mb-0">Afpa Amiens</h3>
@@ -218,7 +214,6 @@
             <span class="text-primary">Octobre 2017- Juin 2018</span>
           </div>
         </div>
-
         <div class="resume-item d-flex flex-column flex-md-row">
           <div class="resume-content mr-auto">
             <h3 class="mb-0">Lycée Galilée Cergy</h3>
@@ -231,13 +226,10 @@
         </div>
       </div>
     </section>
-
     <hr class="m-0">
-
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="competence">
       <div class="my-auto">
         <h2 class="mb-5">Compétences</h2>
-
         <div class="subheading mb-3">Langage Programmation &amp; Outils</div>
         <div class="text-dark display-4 text-center mt-4 mb-4 "> Web </div>
         <ul class="list-inline dev-icons text-center">
@@ -272,7 +264,6 @@
             <i class="fas fa-database fa-6x"></i>
           </li>
         </ul>
-
         <div class="subheading mb-3">Workflow</div>
         <ul class="fa-ul mb-0">
           <li>
@@ -290,9 +281,7 @@
         </ul>
       </div>
     </section>
-
     <hr class="m-0">
-
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interets">
       <div class="my-auto">
         <h2 class="mb-5">Intérêts</h2>
@@ -320,9 +309,7 @@
           </ul>
       </div>
     </section>
-
     <hr class="m-0">
-
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="certification">
       <div class="my-auto">
         <h2 class="mb-5">Certification</h2>
