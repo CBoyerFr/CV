@@ -1,287 +1,364 @@
 <html lang="fr">
+
 <head>
 
   <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
 
 
   <!-- Bootstrap core CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-  <!-- Custom fonts for this template -->
-    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-  Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+    crossorigin="anonymous">
+  <!-- FontAwesome -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
+    crossorigin="anonymous">
 
-  </head>
+</head>
 
-  <body id="page-top">
+<body">
+  <!-- Navbar -->
 
-   <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
-      <a class="navbar-brand js-scroll-trigger" href="#page-top">
-        <span class="d-block d-lg-none">Boyer Clément</span>
-        <span class="d-none d-lg-block">
-          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpg" alt="">
-        </span>
-      </a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav">
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#about">About</a>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="sideNav">
+    <a class="navbar-brand js-scroll-trigger" href="#page-top">
+      <span class="d-block d-lg-none">Boyer Clément</span>
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#formation">Formation</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#competence">Compétences</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#interets">Intérêts</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#certification">Certification</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="container-fluid p-0">
+
+    <!-- Présentation -->
+    <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
+      <div class="my-auto container-fluid">
+        <div class="row">
+          <div class="col-10">
+            <h1 class="mb-4 mt-5 "> Boyer Clément
+            </h1>
+            <div class="blockquote">
+              <p class="mb-0">7 Avenue des hirondelles <br>
+                95260 Beaumont sur oise <br>
+                06.69.39.20.69<br></p>
+              <a target="_blank" href="mailto:name@email.com">boyer.clement95@gmail.com</a>
+            </div>
+          </div>
+          <span class="d-none d-lg-block col-2 mt-5">
+            <img class="img-fluid img-profile rounded-circle m-4 " src="C:\Users\80010-37-22\Dropbox\CDI formation/profil.jpg"
+              alt="">
+          </span>
+        </div>
+        <p class=" mt-2 mb-5">
+          Passionné par les technologies informatiques. Après 7 ans au sein d'un service client , j'ai décidé de
+          changer de vie professionnelle. </br>
+          Pourquoi le développement logiciel, de part ma nature, je suis quelqu’un de persévérant et curieux. <br>
+          J’ai toujours exploré mon environnement pour le comprendre au mieux et essayer de l’améliorer.
+
+          Je suis actuellement à la recherche d'un stage de Mai 2019 à Août 2019 et plus si affinités.</p>
+        <div class="social-icons">
+          <a href="https://www.linkedin.com/in/cboyerfr/">
+            <i class="fab fa-linkedin-in fa-2x"></i>
+          </a>
+          <a href="https://github.com/Gen0s-Dev">
+            <i class="fab fa-github fa-2x"></i>
+          </a>
+          <a href="https://twitter.com/genOs_dev?lang=fr">
+            <i class="fab fa-twitter fa-2x"></i>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
+      <div class="my-auto">
+        <h2 class="mb-5">Experience</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row mb-5">
+          <div class="resume-content mr-auto">
+            <h3 class="mb-0">Chargé Clientèle</h3>
+            <div class="subheading mt-1  mb-3">Veolia Eau</div>
+            <p> Prise en charge via le téléphone, courrier ou mail: <br>
+              <ul>
+                <li> Renseignement technique sur la partie eau et assainissement auprès des clients.</li>
+                <li> Prise de rendez vous.</li>
+                <li> Prise en charge des réclamations des clients.</li>
+                <li> Recouvrement des factures.</li>
+                <li> Redressement des factures.</li>
+                <li> Création et développement d’outils d’analyse et de prévision sur la mensualisation via Excel </li>
+                <li> Création d'un outil sous Excel pour le suivi du traitement du courrier.</li>
+                <li> Co-développement d’une base Access.</li>
+              </ul>
+            </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary"> Aout 2010 - Á ce jour</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row mb-5">
+          <div class="resume-content mr-auto">
+            <h3 class="mb-0">Web Developpeur/ WebMaster</h3>
+            <div class="subheading mt-1 mb-3">MichelAnge</div>
+            <p> Maintenance de site web sur Wordpress et Prestashop:<br>
+              <ul>
+                <li> Amélioration de la vitesse de chargement des sites (min-CSS,min-JS, Compressor pour image).</li>
+                <li> Amélioration du design des sites (modification CSS).</li>
+                <li> Sécurisation des sites en https.</li>
+                <li> Développement plugin Wordpress pour faire des pré-devis.</li>
+                <li> Redressement des factures.</li>
+              </ul>
+            </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">Mars 2018 - Mai 2018</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="formation">
+      <div class="my-auto">
+        <h2 class="mb-5">Formation</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row mb-5">
+          <div class="resume-content mr-auto">
+            <h3 class="mb-0">Afpa Amiens</h3>
+            <div class="mt-1 subheading mb-3">Titre professionnel de niveau II Concepteur Développeur d'Applications</div>
+            <div>Concepteur Développeur d'Applications</div>
+            <span>En cours</span>
+            <div class="mt-2">
+              <ul>
+                <h6>Concevoir et développer des composants d’interface utilisateur en intégrant les recommandations de
+                  sécurité :</h2>
+                  <li>Maquetter une application.</li>
+                  <li>Développer une interface utilisateur de type desktop.</li>
+                  <li>Développer des composants d’accès aux données.</li>
+                  <li>Développer la partie front-end d’une interface utilisateur web.</li>
+                  <li>Développer la partie back-end d’une interface utilisateur web.</li>
+              </ul>
+              <ul>
+                <h6>Concevoir et développer la persistance des données enintégrant les recommandations de sécurité :</h2>
+                  <li>Concevoir une base de données.</li>
+                  <li>Mettre en place une base de données.</li>
+                  <li>Développer des composants dans le langage d’une base de données.</li>
+              </ul>
+              <ul>
+                <h6>Concevoir et développer une application multicouche répartie en intégrant les recommandations de
+                  sécurité :</h2>
+                  <li>Collaborer à la gestion d’un projet informatique et à l’organisation de l’environnement de
+                    développement.</li>
+                  <li>Concevoir une application.</li>
+                  <li>Développer des composants métier.</li>
+                  <li>Construire une application organisée en couches.</li>
+                  <li>Développer une application mobile.</li>
+                  <li>Préparer et exécuter les plans de tests d’une application.</li>
+                  <li>Préparer et exécuter le déploiement d’une application.</li>
+              </ul>
+            </div>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">Septembre 2018 - Á ce jour</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row mb-5">
+          <div class="resume-content mr-auto">
+            <h3 class=" mb-0">Afpa Amiens</h3>
+            <div class=" mt-1 subheading mb-3">Titre professionnel de niveau III Développeur Logiciel</div>
+            <div>Développeur Logiciel</div>
+            <span>Validé</span>
+            <div class="mt-2">
+              <ul>
+                <h6>Développer une application Client-Serveur :</h2>
+                  <li>Maquetter une application.</li>
+                  <li>Concevoir une base de données.</li>
+                  <li>Mettre en place une base de données.</li>
+                  <li>Développer une interface utilisateur.</li>
+                  <li>Développer des composants d’accès aux données.</li>
+              </ul>
+              <ul>
+                <h6>Développer une application Web :</h2>
+                  <li>Développer des pages web en lien avec une base de données.</li>
+                  <li>Mettre en œuvre une solution de gestion de contenu ou ecommerce.</li>
+                  <li>Développer une application simple de mobilité numérique.</li>
+                  <li>Utiliser l’anglais dans son activité professionnelle en informatique.</li>
+              </ul>
+            </div>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">Octobre 2017- Juin 2018</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row">
+          <div class="resume-content mr-auto">
+            <h3 class="mb-0">Lycée Galilée Cergy</h3>
+            <div class="mt-1 subheading mb-3">Bac STG option comptabilité finance et d'entreprise</div>
+            <p>Validé</p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">Septembre 2007 - Juillet 2008</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="competence">
+      <div class="my-auto">
+        <h2 class="mb-5">Compétences</h2>
+
+        <div class="subheading mb-3">Langage Programmation &amp; Outils</div>
+        <div class="text-dark display-4 text-center mt-4 mb-4 "> Web </div>
+        <ul class="list-inline dev-icons text-center">
+          <li class="list-inline-item">
+            <i class="fab fa-html5 fa-6x"></i>
           </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+          <li class="list-inline-item">
+            <i class="fab fa-css3-alt fa-6x"></i>
           </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
+          <li class="list-inline-item">
+            <i class="fab fa-js-square fa-6x"></i>
           </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
+          <li class="list-inline-item">
+            <i class="fab fa-vuejs fa-6x"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-php fa-6x"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-wordpress fa-6x"></i>
+          </li>
+        </ul>
+        <div class="text-dark display-4 text-center mt-4 mb-4 "> Desktop </div>
+        <ul class="list-inline dev-icons text-center">
+          <li class="list-inline-item">
+            <i class="fab fa-java fa-6x"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-windows fa-6x"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fas fa-database fa-6x"></i>
+          </li>
+        </ul>
+
+        <div class="subheading mb-3">Workflow</div>
+        <ul class="fa-ul mb-0">
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            Responsive Design</li>
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            Test &amp; Débogage</li>
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            Travail d'équipe</li>
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            Développement Agile &amp; Scrum</li>
+        </ul>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interets">
+      <div class="my-auto">
+        <h2 class="mb-5">Intérêts</h2>
+        <ul class="list-inline dev-icons text-center mt-3">
+          <li class="list-inline-item">
+            <i class="fas fa-book fa-4x"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fas fa-film fa-4x"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fas fa-hammer fa-4x"></i>
+          </li>
+        </ul>
+        <ul class="list-inline dev-icons text-center mt-3">
+            <li class="list-inline-item">
+              <span>Manga</span>
+            </li>
+            <li class="list-inline-item">
+              <span>Film/Cinéma</span>
+            </li>
+            <li class="list-inline-item">
+              <span>Bricolage</span>
+            </li>
+          </ul>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="certification">
+      <div class="my-auto">
+        <h2 class="mb-5">Certification</h2>
+        <ul class="fa-ul mb-0">
+          <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+            <a target="_blank" href="https://openclassrooms.com/fr/course-certificates/6174202108">Démarrez votre projet avec Java</a>
+          </li>
+          <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+            <a target="_blank" href="https://openclassrooms.com/fr/course-certificates/2375192353">Apprenez à développer en C#.</a>
+          </li>
+          <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+            <a target="_blank" href="https://openclassrooms.com/fr/course-certificates/8057994997">Découvrez le fonctionnement des algorithmes.</a>
+          </li>
+          <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+            <a target="_blank" href="https://openclassrooms.com/fr/course-certificates/4599544585">Comprendre le Web.</a>
+          </li>
+          <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+            <a target="_blank" href="https://www.isograd.com/FR/verificationcertification.php?key_str_id=2017-1681408585-5&sco=716">TOSA Excel 2010 716/1000</a>
           </li>
         </ul>
       </div>
-    </nav>
-
-   <div class="container-fluid p-0">
-
-   <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
-        <div class="my-auto">
-          <h1 class="mb-0">Boyer Clément
-          </h1>
-          <div class="subheading mb-5">
-              7 Avenue des hirondelles
-              95260 Beaumont sur oise
-              0669392069
-            <a href="mailto:name@email.com">boyer.clement95@gmail.com</a>
-          </div>
-          <p class=" mb-5">
-            Passionné par les technologies informatiques. Après 7 ans au sein d'un service client , j'ai décidé de changer de vie professionnelle. </br>
-Pourquoi le développement logiciel, mon entourage personnel et professionnel sont du même avis.
-Je suis logique comme un ordinateur.</br>
-De part ma nature, je suis quelqu’un de persévérant et curieux. J’ai toujours exploré mon environnement pour le comprendre au mieux et essayer de l’améliorer. <br>
- 
-Je suis actuellement à la recherche d'un stage de Mai 2019 à Août 2019 et plus si affinités.</p>
-          <div class="social-icons">
-            <a href="https://www.linkedin.com/in/cboyerfr/">
-              <i class="fab fa-linkedin-in"></i>
-            </a>
-            <a href="#">
-              <i class="fab fa-github"></i>
-            </a>
-            <a href="#">
-              <i class="fab fa-twitter"></i>
-            </a>
-          </div>
-        </div>
-      </section>
-
-   <hr class="m-0">
-
-   <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
-        <div class="my-auto">
-          <h2 class="mb-5">Experience</h2>
-
-   <div class="resume-item d-flex flex-column flex-md-row mb-5">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Senior Web Developer</h3>
-              <div class="subheading mb-3">Intelitec Solutions</div>
-              <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">March 2013 - Present</span>
-            </div>
-          </div>
-
-   <div class="resume-item d-flex flex-column flex-md-row mb-5">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Web Developer</h3>
-              <div class="subheading mb-3">Intelitec Solutions</div>
-              <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">December 2011 - March 2013</span>
-            </div>
-          </div>
-
-  <div class="resume-item d-flex flex-column flex-md-row mb-5">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Junior Web Designer</h3>
-              <div class="subheading mb-3">Shout! Media Productions</div>
-              <p>Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.</p>
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">July 2010 - December 2011</span>
-            </div>
-          </div>
-
-   <div class="resume-item d-flex flex-column flex-md-row">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Web Design Intern</h3>
-              <div class="subheading mb-3">Shout! Media Productions</div>
-              <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">September 2008 - June 2010</span>
-            </div>
-          </div>
+    </section>
 
   </div>
-  </section>
-
-   <hr class="m-0">
-
-  <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="education">
-        <div class="my-auto">
-          <h2 class="mb-5">Education</h2>
-
-   <div class="resume-item d-flex flex-column flex-md-row mb-5">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">University of Colorado Boulder</h3>
-              <div class="subheading mb-3">Bachelor of Science</div>
-              <div>Computer Science - Web Development Track</div>
-              <p>GPA: 3.23</p>
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">August 2006 - May 2010</span>
-            </div>
-          </div>
-
-   <div class="resume-item d-flex flex-column flex-md-row">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">James Buchanan High School</h3>
-              <div class="subheading mb-3">Technology Magnet Program</div>
-              <p>GPA: 3.56</p>
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">August 2002 - May 2006</span>
-            </div>
-          </div>
-
-   </div>
-  </section>
-
-  <hr class="m-0">
-
-  <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
-        <div class="my-auto">
-          <h2 class="mb-5">Skills</h2>
-
-   <div class="subheading mb-3">Programming Languages &amp; Tools</div>
-          <ul class="list-inline dev-icons">
-            <li class="list-inline-item">
-              <i class="fab fa-html5"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-css3-alt"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-js-square"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-angular"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-react"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-node-js"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-sass"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-less"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-wordpress"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-gulp"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-grunt"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-npm"></i>
-            </li>
-          </ul>
-
-   <div class="subheading mb-3">Workflow</div>
-          <ul class="fa-ul mb-0">
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              Mobile-First, Responsive Design</li>
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              Cross Browser Testing &amp; Debugging</li>
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              Cross Functional Teams</li>
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              Agile Development &amp; Scrum</li>
-          </ul>
-        </div>
-      </section>
-
-  <hr class="m-0">
-
-  <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
-        <div class="my-auto">
-          <h2 class="mb-5">Interests</h2>
-          <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p>
-          <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p>
-        </div>
-      </section>
-
-  <hr class="m-0">
-
-   <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="awards">
-        <div class="my-auto">
-          <h2 class="mb-5">Awards &amp; Certifications</h2>
-          <ul class="fa-ul mb-0">
-            <li>
-              <i class="fa-li fa fa-trophy text-warning"></i>
-              Google Analytics Certified Developer</li>
-            <li>
-              <i class="fa-li fa fa-trophy text-warning"></i>
-              Mobile Web Specialist - Google Certification</li>
-            <li>
-              <i class="fa-li fa fa-trophy text-warning"></i>
-              1<sup>st</sup>
-              Place - University of Colorado Boulder - Emerging Tech Competition 2009</li>
-            <li>
-              <i class="fa-li fa fa-trophy text-warning"></i>
-              1<sup>st</sup>
-              Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)</li>
-            <li>
-              <i class="fa-li fa fa-trophy text-warning"></i>
-              2<sup>nd</sup>
-              Place - University of Colorado Boulder - Emerging Tech Competition 2008</li>
-            <li>
-              <i class="fa-li fa fa-trophy text-warning"></i>
-              1<sup>st</sup>
-              Place - James Buchanan High School - Hackathon 2006</li>
-            <li>
-              <i class="fa-li fa fa-trophy text-warning"></i>
-              3<sup>rd</sup>
-              Place - James Buchanan High School - Hackathon 2005</li>
-          </ul>
-        </div>
-      </section>
-
- </div>
-<!-- Bootstrap core JavaScript -->
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-       KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  <!-- Bootstrap core JavaScript -->
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-       KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
 
   </body>
 
