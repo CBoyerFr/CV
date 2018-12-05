@@ -336,7 +336,7 @@
           </li>
            <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
-            <a target="_blank" href="https://gen0s-dev.github.io/Resume/">CV en ligne</a>
+            <a target="_blank" href="https://gen0s-dev.github.io/Resume/">Mon CV en ligne</a>
           </li>
         </ul>
       </div>
