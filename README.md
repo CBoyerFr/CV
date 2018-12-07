@@ -18,10 +18,13 @@
     .markdown-body>*:first-child {
       display: none;
     }
+   .markdown-body{
+      position: relative;
+    }
   </style>
 </head>
 
-<body>
+<body data-spy="scroll" data-target=".navbar" data-offset="50" >
   <!-- Navbar -->
 
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="sideNav">
@@ -33,7 +36,7 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav">
+      <ul class="nav navbar-nav">
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger mt-1" href="#about">About</a>
         </li>
