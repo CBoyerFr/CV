@@ -311,7 +311,7 @@
     <hr class="m-0">
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="certification">
       <div class="my-auto">
-        <h2 class="mb-5">Certification &amp; Projets </h2>
+        <h2 class="mb-5 mt-5">Certification &amp; Projets </h2>
         <ul class="fa-ul mb-0">
           <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
