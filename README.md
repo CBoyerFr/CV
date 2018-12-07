@@ -99,7 +99,7 @@
     <hr class="m-0">
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
       <div class="my-auto">
-        <h2 class="mb-5">Experience</h2>
+        <h2 class="mb-5 mt-5">Experience</h2>
         <div class="resume-item d-flex flex-column flex-md-row mb-5">
           <div class="resume-content mr-auto">
             <h3 class="mb-0">Chargé Clientèle</h3>
@@ -144,7 +144,7 @@
     <hr class="m-0">
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="formation">
       <div class="my-auto">
-        <h2 class="mb-5">Formation</h2>
+        <h2 class="mb-5 mt-5">Formation</h2>
         <div class="resume-item d-flex flex-column flex-md-row mb-5">
           <div class="resume-content mr-auto">
             <h3 class="mb-0">Afpa Amiens</h3>
@@ -228,7 +228,7 @@
     <hr class="m-0">
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="competence">
       <div class="my-auto">
-        <h2 class="mb-5">Compétences</h2>
+        <h2 class="mb-5 mt-5">Compétences</h2>
         <div class="subheading mb-3">Langage Programmation &amp; Outils</div>
         <div class="text-dark display-4 text-center mt-4 mb-4 "> Web </div>
         <ul class="list-inline dev-icons text-center">
