@@ -30,6 +30,19 @@
   margin: 5px 2px;
   border-radius: 50%;
 }
+  .fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+  .fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+  .fa-github {
+  background: #22262A;
+  color: white;
+}
+  
   </style>
 </head>
 
