@@ -21,27 +21,7 @@
    .markdown-body{
       position: relative;
     }
-  .fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 30px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-  border-radius: 50%;
-}
-  .fa-twitter {
-  background: #55ACEE;
-  color: white;
-}
-  .fa-linkedin {
-  background: #007bb5;
-  color: white;
-}
-  .fa-github {
-  background: #22262A;
-  color: white;
-}
+  social-icons a{display:inline-block;height:3.5rem;width:3.5rem;background-color:#495057;color:#fff!important;border-radius:100%;text-align:center;font-size:1.5rem;line-height:3.5rem;margin-right:1rem}.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#bd5d38
   
   </style>
 </head>
@@ -107,13 +87,13 @@
           Je suis actuellement à la recherche d'un stage de Mai 2019 à Août 2019 et plus si affinités.</p>
         <div class="social-icons">
           <a href="https://www.linkedin.com/in/cboyerfr/">
-            <i class="fab fa-linkedin-in fa-2x"></i>
+            <i class="fab fa-linkedin-in"></i>
           </a>
           <a href="https://github.com/Gen0s-Dev">
-            <i class="fab fa-github fa-2x"></i>
+            <i class="fab fa-github"></i>
           </a>
           <a href="https://twitter.com/genOs_dev?lang=fr">
-            <i class="fab fa-twitter fa-2x"></i>
+            <i class="fab fa-twitter"></i>
           </a>
         </div>
       </div>
