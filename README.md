@@ -21,6 +21,15 @@
    .markdown-body{
       position: relative;
     }
+  .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
   </style>
 </head>
 
