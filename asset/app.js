@@ -32,7 +32,7 @@ $(window).ready(function () {
         $('.loader-wrapper').fadeOut("fast");
         (loader).fadeOut("fast");
         /*Set time in milisec */
-    }, 3500);
+    }, 3000);
 });
 
 $(document).ready(function () {
