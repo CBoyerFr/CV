@@ -52,7 +52,7 @@
 
 .loader {
     height: 2px;
-    background-color: #6ec3f5;
+    background-color: #fff;
     position: absolute;
     z-index: 9999;
 }
